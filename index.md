@@ -3,7 +3,7 @@
 Things I like about CS193
 - I like _coding_
 - I like the `relaxed environment`
-- I like learning **new stuff** with coding
+- I like learning **new stuff**
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
